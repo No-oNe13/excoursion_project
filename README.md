@@ -1,20 +1,36 @@
 # No-oNe excursion
 
+<br>
+
 ## A Codecademy project
 
-Overview
+<br>
+
+### Overview:
 
 A web page using HTML for structure and CSS for styling.
 
-Project created using:
+<br>
 
-- HTML
-- CSS
-  -JAVASCRIPT _page added, but no content at this_ time
+### Project created using:
+
+<br>
+
+- HTML5
+- CSS3
+
+- JAVASCRIPT _- page added, but no content at this time._
+  <br>
+  <br>
+
+### Other resources used:
+
+<br>
+
 - GIT BASH
 - AUTO OPEN MARKDOWN PRIVIEW
 - VS CODE
-- YOUTUBE _for inspiration_
+- YOUTUBE _- for inspiration._
   <br>
 
   <br>
